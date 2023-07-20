@@ -1,0 +1,1 @@
+typedef Jmap = Map<String, dynamic>;
