@@ -29,6 +29,10 @@ app.dart
 ### How to run
 - flutter run (entry: main.dart)
 
+### Screenshot
+<img src="assets/screenshot/ss-1.png" >
+<img src="assets/screenshot/ss-2.png" >
+
 ### References
 1. Domain Driven Design 
 - https://getstream.io/blog/build-a-flutter-social-chat/ 
